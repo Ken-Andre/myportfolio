@@ -1,3 +1,18 @@
+# Portfolio — Data Science · Andre Kenmogne
+
+Live site: [v0-portfolio-data-science.vercel.app](https://v0-portfolio-data-science.vercel.app)
+
+## 🎬 Motion showreel '26 — plays inline
+
+15 seconds of procedural motion design (coded frame-by-frame with a custom numpy/OpenCV compositor,
+original synthesised score). The 9:16 cut lives in the same repo.
+
+<video src="https://ken-andre.github.io/myshowreel/videos/showreel_1080p60.mp4" controls preload="metadata" width="100%"></video>
+
+Full source & breakdown: [github.com/Ken-Andre/myshowreel](https://github.com/Ken-Andre/myshowreel)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
