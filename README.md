@@ -7,7 +7,9 @@ Live site: [v0-portfolio-data-science.vercel.app](https://v0-portfolio-data-scie
 15 seconds of procedural motion design (coded frame-by-frame with a custom numpy/OpenCV compositor,
 original synthesised score). The 9:16 cut lives in the same repo.
 
-<video src="https://ken-andre.github.io/myshowreel/videos/showreel_1080p60.mp4" controls preload="metadata" width="100%"></video>
+[![Showreel preview — click to watch with sound](https://ken-andre.github.io/myshowreel/docs/preview.gif)](https://ken-andre.github.io/myshowreel/)
+
+**[▶ Watch the full 1080p60 reel with sound →](https://ken-andre.github.io/myshowreel/)** — plays in your browser, no download.
 
 Full source & breakdown: [github.com/Ken-Andre/myshowreel](https://github.com/Ken-Andre/myshowreel)
 
